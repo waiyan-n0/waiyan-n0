@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I'm Wai Yan Naing</h1>
-<h3 align="center">A passionate web developer from Myanmar</h3>
+<h1>Hello👋, I'm Wai Yan Naing</h1>
+<h3>A passionate web developer from Myanmar</h3>
 
 - 🔭 I’m currently working on **school projects**
 
