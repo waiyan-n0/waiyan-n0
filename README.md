@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **js, react & python**
 
-- 📫 How to reach me **waiyan025674@gmail.com**
+- 📫 How to reach me **waiyann025674@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/waiyan naing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waiyan naing" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waiyan-naing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waiyan naing" height="30" width="40" /></a>
 <a href="https://fb.com/wai yan naing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wai yan naing" height="30" width="40" /></a>
 <a href="https://instagram.com/wai_yan_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wai_yan_n" height="30" width="40" /></a>
 <a href="https://medium.com/@waiyann025674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waiyann025674" height="30" width="40" /></a>
