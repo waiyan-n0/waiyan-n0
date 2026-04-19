@@ -1,6 +1,9 @@
-<h1>Hello👋, I'm Wai Yan Naing</h1>
-# 💫 About Me:
-🔭 I’m currently working on school projects<br>🌱 I’m currently learning React Js & Python<br>💬 Ask me about js, react & python<br>📫 How to reach me waiyann025674@gmail.com
+### Hello,I'm Wai Yan Naing 👋
+## 💫 About Me:
+*🔭 I’m currently working on school projects
+*🌱 I’m currently learning React Js & Python
+*💬 Ask me about js, react & python
+*📫 How to reach me => [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waiyan025674@gmail.com) 
 
 
 ## 🌐 Socials:
